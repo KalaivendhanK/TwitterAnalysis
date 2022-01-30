@@ -1,6 +1,9 @@
 *.class
 *.log
 
+#Bloop server
+.bsp/
+
 # sbt specific
 .cache/
 .history/
