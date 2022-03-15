@@ -2,7 +2,13 @@
 *.log
 
 #Bloop server
+.bsp/*
 .bsp/
+.bsp
+.bloop/
+.idea/
+.metals/
+.vscode/
 
 # sbt specific
 .cache/
